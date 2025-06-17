@@ -8,27 +8,27 @@ Throughout my journey, I enjoy collaborating on innovative projects and contribu
 
 ---
 
-- 🔭 I’m currently working on:
+  🔭 I’m currently working on:
 -  Data Structures and Algorithms (DSA)
 -  Full-stack development
--   
-- 🌱 I’m currently learning:
+   
+  🌱 I’m currently learning:
 - Advanced programming concepts and full-stack technologies
--   
-- 👯 I’m looking to collaborate on:
+   
+  👯 I’m looking to collaborate on:
 - Open-source projects related to web development and algorithms
--   
-- 🤔 I’m looking for help with:
+   
+  🤔 I’m looking for help with:
 - Improving problem-solving skills and project deployment
--  
-- 💬 Ask me about:
+  
+  💬 Ask me about:
 - Java, Python, Web development, and algorithms
--  
-- 📫 How to reach me:
+  
+  📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/sai-harini-monapati-09ab67270
 - MAIL: saiharinimonapati@gmail.com
--   
-- 😄 Pronouns: She/Her
--   
-- ⚡ Fun fact: I enjoy solving puzzles and coding challenges in my free time!  
+   
+  😄 Pronouns: She/Her
+   
+  ⚡ Fun fact: I enjoy solving puzzles and coding challenges in my free time!  
 
