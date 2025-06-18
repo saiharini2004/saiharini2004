@@ -32,6 +32,12 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 [![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](#)
 
+## **📊 GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiharini2004&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiharini2004&layout=compact&theme=radical)
+
+
 
 
 
