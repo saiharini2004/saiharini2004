@@ -10,7 +10,7 @@
 
 💬 Ask me about: Java, Python, Web development, Algorithm
 
-### Find me on 🔗 — Socials & Contact
+## **Find me on 🔗 — Socials & Contact**
 
 [![Instagram](https://img.shields.io/badge/📸-Instagram-E4405F?style=for-the-badge)](https://instagram.com/saiharini_0910)  
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/sai-harini-monapati-09ab67270)  
