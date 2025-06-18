@@ -10,9 +10,9 @@
 
 💬 Ask me about: Java, Python, Web development, Algorithm
 
-### Find me on 🔗
+### Find me on 🔗 — Socials & Contact
 
-[![Twitter](https://img.icons8.com/ios-filled/24/1DA1F2/twitter.png)](https://x.com/saiharini_0910)  
-[![LinkedIn](https://img.icons8.com/ios-filled/24/0077B5/linkedin.png)](https://www.linkedin.com/in/sai-harini-monapati-09ab67270)  
-[![Email](https://img.icons8.com/ios-filled/24/D14836/new-post.png)](mailto:saiharinimonapati@gmail.com)
+[![Twitter](https://img.icons8.com/ios-filled/24/1DA1F2/twitter.png)](https://x.com/saiharini_0910)  **Twitter**  
+[![LinkedIn](https://img.icons8.com/ios-filled/24/0077B5/linkedin.png)](https://www.linkedin.com/in/sai-harini-monapati-09ab67270)  **LinkedIn**  
+[![Email](https://img.icons8.com/ios-filled/24/D14836/new-post.png)](mailto:saiharinimonapati@gmail.com)  **Email**
 
